@@ -18,3 +18,4 @@ def countdown_with_sleep(integer_argument)
 end
 
 countdown(20)
+countdown_with_sleep(20)
