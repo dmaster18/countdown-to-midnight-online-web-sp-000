@@ -5,7 +5,7 @@ def countdown(integer_argument)
     puts "#{integer_argument} SECOND(S)!"
     integer_argument-=1
   end
-  puts "HAPPY NEW YEAR!"
+  "HAPPY NEW YEAR!"
 end
 
 countdown(20)
