@@ -7,3 +7,5 @@ def countdown(integer_argument)
   end
   puts "HAPPY NEW YEAR!"
 end
+
+countdown
